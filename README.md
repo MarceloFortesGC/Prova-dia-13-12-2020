@@ -3,11 +3,11 @@
 1)	Crie um projeto em React Js com um dos temas listados abaixo, que contenha a seguinte estrutura de componentes:<br />
     <h3>a)	Temas:</h3>
       <ol>
-        <li>i)	LandingPage de um produto ou serviço;</li>
-        <li>ii)	LandingPage de um curso;</li>
-        <li>iii)	LandingPage de uma tecnologia;</li>
-        <li>iv)	LandingPage de uma banda ou um artista;</li>
-        <li>v)	LandingPage de um jogo/guilda;</li>
+        <li>LandingPage de um produto ou serviço;</li>
+        <li>LandingPage de um curso;</li>
+        <li>LandingPage de uma tecnologia;</li>
+        <li>LandingPage de uma banda ou um artista;</li>
+        <li>LandingPage de um jogo/guilda;</li>
       </ol>
     <h3>b)	Requisitos:</h3>
     <li>i)	Uma página LandingPage com os seguintes componentes:</li>
