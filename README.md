@@ -1,17 +1,15 @@
-# Prova-dia-13-12-2020
-<br />
-<br />
+<h1>Prova-dia-13-12-2020</h1 style="text-align: center">
+<hr/>
 1)	Crie um projeto em React Js com um dos temas listados abaixo, que contenha a seguinte estrutura de componentes:<br />
-  a)	Temas:
-  <ul>
-    <li>i)	LandingPage de um produto ou serviço;</li>
-    <li>ii)	LandingPage de um curso;</li>
-    <li>iii)	LandingPage de uma tecnologia;</li>
-    <li>iv)	LandingPage de uma banda ou um artista;</li>
-    <li>v)	LandingPage de um jogo/guilda;</li>
-   <ul />
-  b)	Requisitos:
-  <ul>
+    <h3>a)	Temas:</h3>
+      <ol>
+        <li>i)	LandingPage de um produto ou serviço;</li>
+        <li>ii)	LandingPage de um curso;</li>
+        <li>iii)	LandingPage de uma tecnologia;</li>
+        <li>iv)	LandingPage de uma banda ou um artista;</li>
+        <li>v)	LandingPage de um jogo/guilda;</li>
+      </ol>
+    <h3>b)	Requisitos:</h3>
     <li>i)	Uma página LandingPage com os seguintes componentes:</li>
     <ol>
       <li>Header com cor de fundo, que contenha um Menu com 4 itens à direita e uma Logo à esquerda;</li>
@@ -31,4 +29,3 @@
     </ol>
     <li>Ao clicar no botão de submit deve ser exibido no console o objeto com os dados do formulário.</li>
     <li>v)	Utilizar renderização condicional para apresentar componentes distintos de acordo com a situação;</li>
-  <ul>
