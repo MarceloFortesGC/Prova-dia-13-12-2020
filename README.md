@@ -1,5 +1,17 @@
 <h1>Prova-dia-13-12-2020</h1 style="text-align: center">
 <hr/>
+<h1>Screenshots</h1>
+<hr />
+<h2>Landing Page</h2>
+<img src="./src/Assets/prints/1.png" height="350"><br />
+<img src="./src/Assets/prints/2.png" height="350"><br />
+<br />
+<h2>Cadastro</h2>
+<img src="./src/Assets/prints/3.png" height="350"><br />
+<img src="./src/Assets/prints/4.PNG" height="350"><br />
+<br />
+<br />
+<h1>Requisitos Prova</h1>
 1)	Crie um projeto em React Js com um dos temas listados abaixo, que contenha a seguinte estrutura de componentes:<br />
     <h3>a)	Temas:</h3>
       <ol>
