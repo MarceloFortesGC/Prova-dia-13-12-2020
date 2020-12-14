@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('#form_prepare').submit(function(){
+          var $this = $( this );
+      
+          var tr = '<tr>'+
+            '<td>'+$this.find("input[name='nome']").val()+'</td>'+
+            '<td>'+$this.find("input[name='email']").val()+'</td>'+
+            '<td>'+$this.find("input[name='telefone']").val()+'</td>'+
+            '<td>'+$this.find("input[name='datadenascimento']").val()+'</td>'+
+            '</tr>'
+          $('#grid').find('tbody').append( tr );
+            console.log(tr)
+          return false;
+        });
+      });
+      </script>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+    <title>React App</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+  </body>
+  
+</html>

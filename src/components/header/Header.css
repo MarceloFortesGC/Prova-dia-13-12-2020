@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+
+.header{
+    background-color: #333333;
+    padding: 30px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.links{
+    text-align: right;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.links a{
+    text-decoration: none;
+    color: white;
+    padding: 20px 30px;
+    transition: 300ms;
+    font-size: 1.5rem;
+}
+
+
+.links a:hover{
+    background-color: white;
+    color: black
+}

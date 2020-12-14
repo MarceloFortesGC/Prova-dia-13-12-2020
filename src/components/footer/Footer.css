@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+aside{
+    color: white;
+    text-align: right;
+    padding: 20px 20px 0 0;
+}
+
+aside img{
+    height: 30px;
+    padding: 7px;
+}
+
+.footer{
+    background-color: #333333;
+    min-height: 120px;
+}
