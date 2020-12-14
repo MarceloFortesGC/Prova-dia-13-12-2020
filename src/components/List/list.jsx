@@ -1,6 +1,9 @@
 import React from 'react'
 import './list.css'
 
+function msg() {
+    alert("Registrado com Sucesso");
+  }
 
 function Inputs() {
     return(
@@ -20,7 +23,7 @@ function Inputs() {
 				<label>Data de nasc: <input type="text" name="datadenascimento" /></label>
             </div>
             <div>
-				<label><input type="submit" name="ok" value="Ok" /></label>
+            <button onClick={msg}>Registrar-se</button>
             </div>
             <div>
             <text>

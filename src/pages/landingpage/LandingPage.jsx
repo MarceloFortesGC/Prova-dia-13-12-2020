@@ -40,6 +40,7 @@ function LandingPage(){
             </tr>
         </table>
         </div>
+
         <Footer />
         </h1>
     );

@@ -10,11 +10,10 @@ function Cadastro() {
     <>
     <Header />
     <div className="testfile">
-    
-    <Table></Table>
-       
-    <Inputs className="testfile"></Inputs>
+    <Table />
+    <Inputs className="testfile" />
     </div>
+    <Footer />
     </>
     );
 
